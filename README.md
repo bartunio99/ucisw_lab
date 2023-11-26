@@ -1,2 +1,2 @@
-# ucisw_lab
-Zadania z laboratoriów z kursu układy cyfrowe i systemy wbudowane 1
+# uciswLab  
+Lab projects from "Digital circuits and embedded systems" course on Wrocław University of Technology
